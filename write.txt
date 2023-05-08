@@ -1,0 +1,12 @@
+--> useContext --> Routing --> useParams --> pagination
+
+React app
+--> home page
+--> Product page
+--> About page
+--> Login page
+--> reqres api
+--> show some products on UI
+--> pagination
+
+
